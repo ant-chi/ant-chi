@@ -1,16 +1,13 @@
-<h1><img src=assets/waving.gif width="30"/> Hello World!</h1>
+<h1> Hello World! <img src=assets/sunglasses.gif width="32"/><img src=assets/waving.gif width="32px"> </h1>
 
-<h1> Hello World! <img src=assets/sunglasses.gif width="30"/><img src=assets/waving.gifwidth="29px"> </h1>
-
-<p>Welcome to my page!
-</br>
-<p>
+<p>Welcome to my Github! I'm Anthony and I recently graduated from UCSD with a double major in data science and economics. I'm currently looking for roles in data science/analytics and have experience developing data driven web apps and analyzing messy data to tell stories.
+ 
+In my free time I enjoy moonlighting as a bike mechanic, watching an unhealthy amount of basketball (Go Celtics! ☘️ :shamrock:), and playing the guitar :guitar:.
 
 
 
+- 📫 How to reach me: chi.anthony22@gmail.com
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ant-chi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ant-chi/ant-chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
