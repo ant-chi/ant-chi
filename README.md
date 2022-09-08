@@ -2,7 +2,8 @@
 
 <p>Welcome to my Github! I'm Anthony and I recently graduated from UCSD with a double major in data science and economics. I'm currently looking for roles in data science/analytics and have experience developing data driven web apps and analyzing messy data to tell stories.
  
-In my free time I enjoy moonlighting as a bike mechanic, watching an unhealthy amount of basketball (Go Celtics! ☘️ :shamrock:), and playing the guitar :guitar:.
+In my free time I enjoy moonlighting as a bike mechanic 🛠️
+:bike:, watching an unhealthy amount of basketball (Go Celtics! :shamrock:), and playing the guitar :guitar:.
 
 
 
