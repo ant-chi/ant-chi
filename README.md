@@ -1,10 +1,11 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World!</h1>
-<h1> Hello World! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
+<h1><img src=assets/waving.gif width="30"/> Hello World!</h1>
+
+<h1> Hello World! <img src=assets/sunglasses.gif width="30"/><img src=assets/waving.gifwidth="29px"> </h1>
 
 <p>Welcome to my page!
 </br>
 <p>
-I
+
 
 
 
