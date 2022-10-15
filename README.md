@@ -1,11 +1,11 @@
 <h1> Hello World! <img src=assets/sunglasses.gif width="32"/><img src=assets/waving.gif width="32px"> </h1>
 
-<p>Welcome to my Github! I'm Anthony and I recently graduated from UCSD with a double major in data science and economics. I'm currently looking for roles in data science/analytics and have experience developing data driven web apps and analyzing messy data to tell stories.
+<p>Welcome to my Github! I'm Anthony and I recently graduated from UCSD with a double major in data science and economics. I'm currently looking for roles in data science/analytics and have experience developing data driven web apps and wrangling real-world data to gain insights.
  
-In my free time I enjoy fixing and repairing bikes 🛠️, watching an unhealthy amount of basketball (Go Celtics! :shamrock:), and playing the guitar :guitar:.
+In my free time I enjoy fixing and repairing bikes 🛠️, watching unhealthy amounts of basketball (Go Celtics! :shamrock:), and playing the guitar :guitar:.
 
 
-<h3> Projects I'm proud of </h3>
+<h4> These are two projects that I'm proud to show off. </h4>
 <ul>
   <li>
       <a href="https://ant-chi-wildfiremappingapp-app-r4o1l0.streamlitapp.com/" align='center'>Wildfire Severity Mapping App</a>
